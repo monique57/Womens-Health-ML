@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 import joblib
 
 # ✅ Paths
-MODEL_PATH = r"C:/Users/Asus_/OneDrive/Desktop/WomensHealth/models/best_model_v2.joblib"
-SCALER_PATH = r"C:/Users/Asus_/OneDrive/Desktop/WomensHealth/models/scaler_v2.save"
+MODEL_PATH = "models/best_model_v2.joblib"
+SCALER_PATH = "models/scaler_v2.save"
 
 # ✅ Load Model & Scaler
 @st.cache_resource
