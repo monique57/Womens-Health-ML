@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-08-14 15:29:59",
+  "created_at": "2025-08-14 16:24:57",
   "best_model": "best_model_namcs2019.joblib",
   "copied": {
     "crossval": [
@@ -10,7 +10,14 @@
       "kfold_r2_box.png",
       "kfold_rmse_box.png"
     ],
-    "stability": [],
+    "stability": [
+      "stability_runs.csv",
+      "stability_summary.csv",
+      "mae_box.png",
+      "mse_box.png",
+      "r2_box.png",
+      "rmse_box.png"
+    ],
     "test": [
       "regression_summary.csv"
     ],
