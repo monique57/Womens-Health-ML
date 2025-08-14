@@ -1,0 +1,23 @@
+{
+  "created_at": "2025-08-14 15:29:59",
+  "best_model": "best_model_namcs2019.joblib",
+  "copied": {
+    "crossval": [
+      "kfold_metrics.csv",
+      "kfold_summary.csv",
+      "kfold_mae_box.png",
+      "kfold_mse_box.png",
+      "kfold_r2_box.png",
+      "kfold_rmse_box.png"
+    ],
+    "stability": [],
+    "test": [
+      "regression_summary.csv"
+    ],
+    "shap": [
+      "shap_candlestick.png",
+      "shap_summary_candlestick_colored.png",
+      "synthetic_shap_summary.png"
+    ]
+  }
+}
